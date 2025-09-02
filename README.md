@@ -82,7 +82,7 @@
 apt install git curl -y
 
 # Clone repository
-git clone https://github.com/alijayanet/gembok-bill
+git clone https://github.com/gponvsol-maker/rznet.git
 cd gembok-bill
 ```
 
